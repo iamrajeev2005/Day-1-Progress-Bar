@@ -1,8 +1,12 @@
+@font-face {
+    font-family: Gilroy;
+    src: url(../Day\ 2\ -\ Progress\ Bar/Gilroy);
+}
 *{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: "Gilroy";
+    font-family: Gilroy;
 }
 :root{
     --pri-color-fill: #3498db;
